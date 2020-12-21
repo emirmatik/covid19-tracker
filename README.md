@@ -1,6 +1,7 @@
 ## COVID19 Tracker With Global and Specific Country Selection
 
-Here is the live link => https://covidd-19tracker.netlify.app/
+Here is the live link => https://covidd-19tracker.netlify.app/ <br>
+**Note: API is not allowed for now. So, website does not work :/**
 
 ## Available Scripts
 
